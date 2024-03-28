@@ -1,39 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-   <!-- Basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- Mobile Metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <!-- Site Metas -->
-   <title>Induko</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- site icon -->
-   <link rel="icon" href="images/fevicon.png" type="image/png" />
-   <!-- Bootstrap core CSS -->
-   <link href="css/bootstrap.css" rel="stylesheet">
-   <!-- FontAwesome Icons core CSS -->
-   <link href="css/font-awesome.min.css" rel="stylesheet">
-   <!-- Custom animate styles for this template -->
-   <link href="css/animate.css" rel="stylesheet">
-   <!-- Custom styles for this template -->
-   <link href="style.css" rel="stylesheet">
-   <!-- Responsive styles for this template -->
-   <link href="css/responsive.css" rel="stylesheet">
-   <!-- Colors for this template -->
-   <link href="css/colors.css" rel="stylesheet">
-   <!-- light box gallery -->
-   <link href="css/ekko-lightbox.css" rel="stylesheet">
-   <!--[if lt IE 9]>
-   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-   <![endif]-->
-   </head>
+   <?php require_once('include/head.php')?>
    <body id="inner_page">
       <!-- header -->
-      <div id="includedHeader"></div>
+      <?php require_once('include/header.php')?>
       <!-- end header -->
       
       <!-- section -->
@@ -56,7 +26,7 @@
                   <div class="full">
                      <p class="large">Je vais vous présenter le BTS SIO que je réalise au sein de MyDigitalSchool (Angers) ainsi que ces 
                         différentes options qui sont disponibles. En somme mes différents projets de niveau BTS sont disponible sur 
-                        <a class="lien" style="color: blue;" href="index.html">cette page</a>. Les étudiants de BTS SIO arrivent souvent d’un BAC PRO et d’un BAC STI2D et qui souhaitent continuer 
+                        <a class="lien" style="color: blue;" href="index.php">cette page</a>. Les étudiants de BTS SIO arrivent souvent d’un BAC PRO et d’un BAC STI2D et qui souhaitent continuer 
                         les études tout en débutant le monde du travail.</p>
                   </div>
                </div>
@@ -139,7 +109,7 @@
             <div class="row">
 
                <div class="col-md-4 col-sm-12">
-                  <a href="index.html"><img class="img-responsive" src="images/logo_footer.png" alt="#" /></a>
+                  <a href="index.php"><img class="img-responsive" src="images/logo_footer.png" alt="#" /></a>
                   <div class="footer_link_heading">
                      <div class="footer_menu margin_top_30">
                      <ul>
@@ -221,11 +191,5 @@
       <script src="js/animate.js"></script>
       <script src="js/ekko-lightbox.js"></script>
       <script src="js/custom.js"></script>
-      <script>
-         // Assuming you have jQuery
-         $(function(){
-            $("#includedHeader").load("include/header.html");
-         });
-      </script>
    </body>
 </html>

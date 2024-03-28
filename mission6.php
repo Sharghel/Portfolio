@@ -1,47 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-   <!-- Basic -->
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <!-- Mobile Metas -->
-   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-   <!-- Site Metas -->
-   <title>Induko</title>
-   <meta name="keywords" content="">
-   <meta name="description" content="">
-   <meta name="author" content="">
-   <!-- site icon -->
-   <link rel="icon" href="images/fevicon.png" type="image/png" />
-   <!-- Bootstrap core CSS -->
-   <link href="css/bootstrap.css" rel="stylesheet">
-   <!-- FontAwesome Icons core CSS -->
-   <link href="css/font-awesome.min.css" rel="stylesheet">
-   <!-- Custom animate styles for this template -->
-   <link href="css/animate.css" rel="stylesheet">
-   <!-- Custom styles for this template -->
-   <link href="style.css" rel="stylesheet">
-   <!-- Responsive styles for this template -->
-   <link href="css/responsive.css" rel="stylesheet">
-   <!-- Colors for this template -->
-   <link href="css/colors.css" rel="stylesheet">
-   <!-- light box gallery -->
-   <link href="css/ekko-lightbox.css" rel="stylesheet">
-   <!--[if lt IE 9]>
-   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-   <![endif]-->
-   </head>
+   <?php require_once('include/head.php')?>
    <body id="inner_page">
       <!-- header -->
-      <div id="includedHeader"></div>
+      <?php require_once('include/header.php')?>
       <!-- end header -->
-      
+
       <!-- section -->
       <section class="main_full inner_page">
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 1</h3>    
+               <h3>Mission 6</h3>    
              </div>
           </div>
         </div>
@@ -54,7 +24,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Intégration d'une maquette en HTML CSS Groundesk</h2>
+                     <h2>Création d'un Sharepoint interne à l'entreprise</h2>
                   </div>
                </div>
             </div>
@@ -63,13 +33,13 @@
                      <div class="row">
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
-                              <p class="large">J’ai réalisé une intégration de maquette en HTML5 et CSS. 
-                                 J’ai appris et mis en œuvre mes compétences en développement web pour donner vie à une conception 
-                                 précise et élégante, explorant de nouvelles techniques de mise en page et améliorant ma compréhension 
-                                 des principes de conception responsive.
-                                 Cette intégration de maquette a été un accomplissement personnel et m’a permis d’apprendre 
-                                 beaucoup sur la conception web en général.<br><br>vous pouvez voir le projet grâce à ce 
-                                 <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main"> lien Github</a>.</p>
+                              <p class="large">
+                                 Lors de mon alternance j'ai du créer et parametrer un sharepoint interne d'entreprise, 
+                                 j'ai eu la chance d'être dans le même bureau que la personne souhaitant ce sharepoint ce qui m'a permis d'avoir des indications précises des attendus
+                                 <!-- Dans le cadre de mon entreprise j’ai du faire la création d’un sharepoint online pour pouvoir concentrer l’activité CONVEX entre toute la France sur un seul portail à la place de 5 différents.
+                                    Le défis était de taille puisque j’ai du satisfaire les demandes de plusieurs agents en même temps malgré que leurs avis soient parfois divergent.
+                                    J’ai notamment dû être capable de faire plusieurs affichage puisque personne ne voulais le même 
+                                    -->
                            </div>
                         </div>
                      </div>
@@ -81,27 +51,16 @@
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           Pour la création de ce site web j’ai dû, développer mes connaissances en HTML :
+                           Pour la création du sharepoint j’ai dû :
                            <ul>
-                              <li>Sémantique de base</li>
-                              <li>Création d'un fichier html</li>
+                              <li>Lire la documentation autours de sharepoint</li>
+                              <li>Me renseigner de plusieurs source différentes</li>
+                              <li>Utiliser la suite Microsoft</li>
                            </ul>
-                           En CSS :
+                           En Social :
                            <ul>
-                              <li>Découverte des classes</li>
-                              <li>Changement de style (la typographie par exemple)</li>
-                              <li>Découverte du flexbox</li>
-                           </ul>
-                           En javascript :
-                           <ul>
-                              <li>Création d'une fonction</li>
-                              <li>Modifcation d'une valeur html</li>
-                              <li>Attribution d'une valeur</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Comment développer en suivant une maquette</li>
-                              <li>Organisation d'un fichier (découpage, ordre)</li>
+                              <li>Savoir synthétiser les demandes clientes</li>
+                              <li>Etre force de propositions</li>
                            </ul>
                         </div>
                      </div>
@@ -120,17 +79,12 @@
                      <div class="mini-info">
                         Logiciel principal :
                         <ul>
-                           <li>VSCode pour le code en général</li>
-                           <li>Figma pour l’accès à la maquette</li>
+                           <li>La suite Microsoft</li>
                         </ul>
                         Site externe :
                         <ul>
-                           <li>Stackoverflow pour les erreurs éventuelles</li>
-                           <li>Flexboxfroggy pour apprendre les particularités de flexbox</li>
-                        </ul>
-                        Outil secondaire :
-                        <ul>
-                           <li>Github pour le stockage en cloud de mes fichiers et pour faciliter leurs accès</li>
+                           <li>Youtube pour pouvoir se former</li>
+                           <li>Forum en ligne pour pouvoir se former</li>
                         </ul>
                      </div>
                   </div>
@@ -145,13 +99,11 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full">
-                     <p class="large">J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
-                        ou d’autre élèves quand j’avais des questions.
+                     <p class="large">J'ai fait ce projet seul mais j’ai pu être aidé par mes différents collègues pour mieux comprendre leurs besoins 
                         <br>
-                        Le projet à été commencé le 20/12/2022 et fini le 14/06/2023.
+                        Le projet à été commencé le 01/01/2023 et fini le 31/06/2023.
                         <br><br>
-                        Pour avoir accès à la maquette vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main">ce lien</a>
-                        <br>Ou via ce lien : https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main</p>
+                     </p>
                   </div>
                </div>
             </div>
@@ -164,7 +116,7 @@
             <div class="row">
 
                <div class="col-md-4 col-sm-12">
-                  <a href="index.html"><img class="img-responsive" src="images/logo_footer.png" alt="#" /></a>
+                  <a href="index.php"><img class="img-responsive" src="images/logo_footer.png" alt="#" /></a>
                   <div class="footer_link_heading">
                      <div class="footer_menu margin_top_30">
                      <ul>
@@ -237,7 +189,6 @@
         </div>
       </div> -->
       <!-- end footer -->
-      
       <!-- Core JavaScript
          ================================================== -->
       <script src="js/jquery.min.js"></script>
@@ -247,11 +198,5 @@
       <script src="js/animate.js"></script>
       <script src="js/ekko-lightbox.js"></script>
       <script src="js/custom.js"></script>
-      <script>
-         // Assuming you have jQuery
-         $(function(){
-            $("#includedHeader").load("include/header.html");
-         });
-      </script>
    </body>
 </html>
