@@ -48,26 +48,34 @@
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           Pour la création de ce site web j’ai dû, développer mes connaissances en PHP :
-                           <ul>
-                              <li>Les bases du PHP</li>
-                              <li>Traitement des requêtes http en get et post</li>
-                              <li>Visions sur les classes</li>
-                           </ul>
-                           En SQL :
-                           <ul>
-                              <li>Création de requêtes préparée</li>
-                           </ul>
-                           En Sécurité :
-                           <ul>
-                              <li>Utilisation de la PDO</li>
-                              <li>Faire des tests contre les injections</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Comment développer en suivant une maquette</li>
-                              <li>Organisation d'un fichier (découpage, ordre)</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Pour la création de ce site web j’ai dû, développer mes connaissances en PHP :
+                              </p>
+                              <li>- Les bases du PHP</li>
+                              <li>- Traitement des requêtes http en get et post</li>
+                              <li>- Visions sur les classes</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En SQL :
+                              </p>
+                              <li>- Création de requêtes préparée</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En Sécurité :
+                              </p>
+                              <li>- Utilisation de la PDO</li>
+                              <li>- Faire des tests contre les injections</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Divers :
+                              </p>
+                              <li>- Comment développer en suivant une maquette</li>
+                              <li>- Organisation d'un fichier (découpage, ordre)</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -77,23 +85,21 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>VSCode pour le code en général</li>
-                           <li>Figma pour l’accès à la maquette</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- VSCode pour le code en général</li>
+                        <li>- Figma pour l’accès à la maquette</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

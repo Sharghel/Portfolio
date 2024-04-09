@@ -5,13 +5,13 @@
       <!-- header -->
       <?php require_once('include/header.php')?>
       <!-- end header -->
-
+      
       <!-- section -->
       <section class="main_full inner_page">
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 7</h3>    
+               <h3>Mission 1</h3>    
              </div>
           </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Mise à jour de fichier Excel</h2>
+                     <h2>Intégration d'une maquette en HTML CSS Groundesk</h2>
                   </div>
                </div>
             </div>
@@ -33,43 +33,38 @@
                      <div class="row">
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
-                              <p class="large">
-                              Lors de mon alternance, j'ai dû travailler sur de nombreux fichiers Excel. Ce fut la mission principale de ma formation : 
-                              je devais maintenir en fonctionnement les fichiers existants tout en réhabilitant les différents fichiers qui m'étaient confiés. 
-                              Ces différents fichiers m'ont appris à comprendre précisément les demandes des utilisateurs, puis à les appliquer. En plus du côté social, 
-                              j'ai notamment pu apprendre beaucoup sur Excel, qui est une application très complète et complexe.
+                              <p class="large">J’ai réalisé une intégration de maquette en HTML5 et CSS. 
+                                 J’ai appris et mis en œuvre mes compétences en développement web pour donner vie à une conception 
+                                 précise et élégante, explorant de nouvelles techniques de mise en page et améliorant ma compréhension 
+                                 des principes de conception responsive.
+                                 Cette intégration de maquette a été un accomplissement personnel et m’a permis d’apprendre 
+                                 beaucoup sur la conception web en général.<br><br>vous pouvez voir le projet grâce à ce 
+                                 <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main"> lien Github</a>.</p>
                            </div>
                         </div>
                      </div>
                   </div>
                </section>
             <div class="row">
-              <div class="col-md-12 cours_timging_bg">
-                 <div class="container">
-                    <div class="time_table">
+               <div class="col-md-12 cours_timging_bg">
+                  <div class="container">
+                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
-                        
                         <div class="mini-info">
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Pour résoudre les différence problème j'ai du développer mes connaissances sur Excel :
+                                 SOUS TITRE   
                               </p>
-                              <li>- Apprentissage des notions de bases d'Excel</li>
-                              <li>- Approfondissement des formules</li>
+                              <li>- </li>
+                              <li>- </li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 En VBA :
+                                 SOUS TITRE
                               </p>
-                              <li>- Découverte du VBA</li>
-                              <li>- Création de Macro complexe en VBA</li>
-                              <li>- Maintenance de code VBA</li>
-                           </ol>
-                           <ol class="h5">
-                              <p class="mini-title" style="font-size: 25px;">
-                                 Divers :
-                              </p>
-                              <li>- Relation client, savoir synthétiser les demandes</li>
+                              <li>- </li>
+                              <li>- </li>
+                              <li>- </li>
                            </ol>
                         </div>
                      </div>
@@ -87,8 +82,12 @@
                   <div class="mini-title">Mes différents outils utilisés :</div>
                   <div class="mini-info">
                      <ol class="h5">
-                        <li>- Excel, Suite Microsoft</li>
-                        <li>- Formation Interne sur Excel</li>
+                        <li>- </li>
+                        <li>- </li>
+                        <li>- </li>
+                        <li>- </li>
+                        <li>- </li>
+                        <li>- </li>
                      </ol>
                   </div>
                </div>
@@ -102,9 +101,13 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full">
-                     <p class="large">
-                        Cette mission à commencé le 01/09/2022 et fini le 04/03/2024.
-                     </p>
+                     <p class="large">J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
+                        ou d’autre élèves quand j’avais des questions.
+                        <br>
+                        Le projet à été commencé le 20/12/2022 et fini le 14/06/2023.
+                        <br><br>
+                        Pour avoir accès à la maquette vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main">ce lien</a>
+                        <br>Ou via ce lien : https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main</p>
                   </div>
                </div>
             </div>
@@ -190,6 +193,7 @@
         </div>
       </div> -->
       <!-- end footer -->
+      
       <!-- Core JavaScript
          ================================================== -->
       <script src="js/jquery.min.js"></script>

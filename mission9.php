@@ -49,21 +49,26 @@
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
+
                         <div class="mini-info">
-                           J'ai été en charge de monter en compétence sur :
-                           <ul>
-                              <li>Django</li>
-                              <li>Python</li>
-                              <li>React</li>
-                              <li>HTML</li>
-                              <li>GitLab</li>
-                              <li>Travailler en mode projet</li>
-                           </ul>
-                           Approfondissement des connaissances sur :
-                           <ul>
-                              <li>ORM (object-relational mapping )</li>
-                              <li>VMC (Vue modèle contrôleur)</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 J'ai été en charge de monter en compétence sur :
+                              </p>
+                              <li>- Django</li>
+                              <li>- Python</li>
+                              <li>- React</li>
+                              <li>- HTML</li>
+                              <li>- GitLab</li>
+                              <li>- Travailler en mode projet</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Approfondissement des connaissances sur :
+                              </p>
+                              <li>- ORM (object-relational mapping)</li>
+                              <li>- VMC (Vue modèle contrôleur)</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -73,30 +78,25 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>VSCode pour le code en front</li>
-                           <li>PyCharm pour le code en back</li>
-                           <li>GitLab pour déposer le code</li>
-                        </ul>
-                        Outil secondaire :
-                        <ul>
-                           <li>Logiciel interne à l'entreprise</li>
-                           <li>Utilisation d'une méthode de travaille Kanban</li>
-                           <li>Jenkins pour construire le pipeline</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- VSCode pour le code en front</li>
+                        <li>- PyCharm pour le code en back</li>
+                        <li>- GitLab pour déposer le code</li>
+                        <li>- Logiciel interne à l'entreprise</li>
+                        <li>- Utilisation d'une méthode de travaille Kanban</li>
+                        <li>- Jenkins pour construire le pipeline</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

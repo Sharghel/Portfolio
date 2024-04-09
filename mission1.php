@@ -46,33 +46,54 @@
                   </div>
                </section>
             <div class="row">
-              <div class="col-md-12 cours_timging_bg">
-                 <div class="container">
-                    <div class="time_table">
+               <div class="col-md-12 cours_timging_bg">
+                  <div class="container">
+                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           Pour la création de ce site web j’ai dû, développer mes connaissances en HTML :
-                           <ul>
-                              <li>Sémantique de base</li>
-                              <li>Création d'un fichier html</li>
-                           </ul>
-                           En CSS :
-                           <ul>
-                              <li>Découverte des classes</li>
-                              <li>Changement de style (la typographie par exemple)</li>
-                              <li>Découverte du flexbox</li>
-                           </ul>
-                           En javascript :
-                           <ul>
-                              <li>Création d'une fonction</li>
-                              <li>Modifcation d'une valeur html</li>
-                              <li>Attribution d'une valeur</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Comment développer en suivant une maquette</li>
-                              <li>Organisation d'un fichier (découpage, ordre)</li>
-                           </ul>
+                           <!-- <ol class="h5">
+                              <li>- Création d'un planning de tâches</li>
+                              <li>- Définition de l'architecture du site</li>
+                              <li>- Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</li>
+                              <li>- Création de la requête sql pour la création de la base de donnée.</li>
+                              <li>- Création d'un repository GIT</li>
+                              <li>- Répartition des tâches au sein de l'équipe</li>
+                              <li>- Clean du template initial à l'aide de la définition de l'architecture</li>
+                              <li>- Création des différentes pages du site</li>
+                              <li>- Sécurisation de la base de donnée et des mots de passes</li>
+                              <div class="mini-title">Description des tâches :</div>
+                              <li>- Test et mise sur serveur du site </li>
+                           </ol> -->
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Pour la création de ce site web j’ai dû, développer mes connaissances en HTML :
+                              </p>
+                              <li>- Sémantique de base</li>
+                              <li>- Création d'un fichier html</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En CSS :
+                              </p>
+                              <li>- Découverte des classes</li>
+                              <li>- Changement de style (la typographie par exemple)</li>
+                              <li>- Découverte du flexbox</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En javascript :
+                              </p>
+                              <li>- Création d'une fonction</li>
+                              <li>- Modifcation d'une valeur html</li>
+                              <li>- Attribution d'une valeur</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Divers :
+                              </p>
+                              <li>- Comment développer en suivant une maquette</li>
+                              <li>- Organisation d'un fichier (découpage, ordre)</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -82,32 +103,25 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>VSCode pour le code en général</li>
-                           <li>Figma pour l’accès à la maquette</li>
-                        </ul>
-                        Site externe :
-                        <ul>
-                           <li>Stackoverflow pour les erreurs éventuelles</li>
-                           <li>Flexboxfroggy pour apprendre les particularités de flexbox</li>
-                        </ul>
-                        Outil secondaire :
-                        <ul>
-                           <li>Github pour le stockage en cloud de mes fichiers et pour faciliter leurs accès</li>
-                        </ul>
+                  <div class="mini-info">
+                     <ol class="h5">
+                           <li>- VSCode pour le code en général</li>
+                           <li>- Figma pour l’accès à la maquette</li>
+                           <li>- Stackoverflow pour les erreurs éventuelles</li>
+                           <li>- Flexboxfroggy pour apprendre les particularités de flexbox</li>
+                           <li>- Github pour le stockage en cloud de mes fichiers et pour faciliter leurs accès</li>
+                        </ol>
                      </div>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

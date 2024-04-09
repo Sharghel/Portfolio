@@ -48,22 +48,29 @@
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
+                        
                         <div class="mini-info">
-                           Pour la création de ce site web j’ai dû apprendre à refaire du HTML :
-                           <ul>
-                              <li>Revoir un code déjà existant, le comprendre et l'améliorer</li>
-                              <li>être capable de pouvoir simplifier le code déjà existant</li>
-                           </ul>
-                           En Ajout :
-                           <ul>
-                              <li>Rajouter des parties importantes (scroller dynamiques)</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Acheter un nom de domaine</li>
-                              <li>Paramètrer un server pour herger le site</li>
-                              <li>Sécuriser le site avec un protocole ssh</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Pour la création de ce site web j’ai dû apprendre à refaire du HTML :
+                              </p>
+                              <li>- Revoir un code déjà existant, le comprendre et l'améliorer</li>
+                              <li>- être capable de pouvoir simplifier le code déjà existant</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En Ajout :
+                              </p>
+                              <li>- Rajouter des parties importantes (scroller dynamiques)</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Divers :
+                              </p>
+                              <li>- Acheter un nom de domaine</li>
+                              <li>- Paramètrer un server pour herger le site</li>
+                              <li>- Sécuriser le site avec un protocole ssh</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -73,27 +80,22 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>VSCode pour le code en général</li>
-                           <li>Figma pour l’accès à la maquette</li>
-                        </ul>
-                        Site externe :
-                        <ul>
-                           <li>Site Microlead avec les sections à propos de HTML et CSS</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- VSCode pour le code en général</li>
+                        <li>- Figma pour l’accès à la maquette</li>
+                        <li>- Site Microlead avec les sections à propos de HTML et CSS</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

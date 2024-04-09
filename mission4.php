@@ -48,17 +48,21 @@
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           Pour la création de ce diagramme j’ai dû, développer mes connaissances sur MySQLWorkbench:
-                           <ul>
-                              <li>Comprendre la création de table</li>
-                              <li>Les types d'informations qu'on stocke</li>
-                              <li>Les liens entre les tables</li>
-                           </ul>
-                           En Meurise :
-                           <ul>
-                              <li>Comprendre les liens qui peuvent exister</li>
-                              <li>L'utilité d'ou l'informations peut être stocker</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Pour la création de ce diagramme j’ai dû, développer mes connaissances sur MySQLWorkbench:
+                              </p>
+                              <li>- Comprendre la création de table</li>
+                              <li>- Les types d'informations qu'on stocke</li>
+                              <li>- Les liens entre les tables</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En Meurise :
+                              </p>
+                              <li>- Comprendre les liens qui peuvent exister</li>
+                              <li>- L'utilité d'ou l'informations peut être stocker</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -68,27 +72,22 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>MySQLWorkbench</li>
-                           <li>Drawio de google</li>
-                        </ul>
-                        Site externe :
-                        <ul>
-                           <li>Microlead avec leurs cours à propos des différents diagramme</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- MySQLWorkbench</li>
+                        <li>- Drawio de google</li>
+                        <li>- Microlead avec leurs cours à propos des différents diagramme</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

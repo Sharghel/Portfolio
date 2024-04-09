@@ -28,43 +28,44 @@
                   </div>
                </div>
             </div>
-               <section class="layout_padding section about_dottat">
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-lg-12 text_align_center">
-                           <div class="full">
-                              <p class="large">
+            <section class="layout_padding section about_dottat">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-12 text_align_center">
+                        <div class="full">
+                           <p class="large">
 
-                                 Pendant mon alternance j'ai eu la chance de travailler avec le service CASH, dans ce service nous étions en charge de nous occuper 
-                                 de cartographier le réseau électrique français. J'ai pu profiter de nombreuses formations et ainsi gagné en compétence tout en 
-                                 travaillant en mode projet.
+                              Pendant mon alternance j'ai eu la chance de travailler avec le service CASH, dans ce service nous étions en charge de nous occuper 
+                              de cartographier le réseau électrique français. J'ai pu profiter de nombreuses formations et ainsi gagné en compétence tout en 
+                              travaillant en mode projet.
 
-                              </p>
-                           </div>
+                           </p>
                         </div>
                      </div>
                   </div>
-               </section>
+               </div>
+            </section>
             <div class="row">
               <div class="col-md-12 cours_timging_bg">
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
-                        <div class="mini-info">
-                           AutoCAD :
-                           <ul>
-                              <li>Apprentissage des bases d'AutoCAD</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Utilisation de la suite Office</li>
-                              <li>utilisation des applications interne à l'entreprise</li>
-                              <li>Respect des procédures</li>
-                           </ul>
+                           <div class="mini-info">
+                              AutoCAD :
+                              <ul>
+                                 <li>Apprentissage des bases d'AutoCAD</li>
+                              </ul>
+                              Divers :
+                              <ul>
+                                 <li>Utilisation de la suite Office</li>
+                                 <li>utilisation des applications interne à l'entreprise</li>
+                                 <li>Respect des procédures</li>
+                              </ul>
+                           </div>
                         </div>
                      </div>
-                 </div>
-              </div> 
+                  </div> 
+               </div>
             </div>
          </div>
       </section>

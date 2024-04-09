@@ -47,9 +47,16 @@
                   ▸Gérer des sauvegardes <br>
                   ▸Vérifier le respect des règles d’utilisation des ressources numériques
                  </p>
-                 <div class="full center">
-                    <a class="blue_bt" href="#">Voir un projet</a>
-                 </div>
+                  <div class="full nav-item dropdown">
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <div class="full dropdown-menu m-0">
+                        <a href="mission1.php" class="dropdown-item center">Mission 1</a>
+                        <a href="mission2.php" class="dropdown-item center">Mission 2</a>
+                        <a href="mission3.php" class="dropdown-item center">Mission 3</a>
+                        <a href="mission4.php" class="dropdown-item center">Mission 4</a>
+                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
+                     </div>
+                  </div>
               </div>
               
               <!-- n2 -->
@@ -63,9 +70,16 @@
                   ▸Traiter des demandes concernant les services réseau et système, applicatifs <br>
                   ▸Traiter des demandes concernant les applications
                  </p>
-                 <div class="full center">
-                    <a class="blue_bt" href="#">Voir un projet</a>
-                 </div>
+                 <div class="full nav-item dropdown">
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <div class="full dropdown-menu m-0">
+                        <a href="mission4.php" class="dropdown-item center">Mission 4</a>
+                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
+                        <a href="mission7.php" class="dropdown-item center">Mission 7</a>
+                        <a href="mission8.php" class="dropdown-item center">Mission 8</a>
+                        <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                     </div>
+                  </div>
               </div> 
               
               <!-- n3 -->
@@ -79,9 +93,15 @@
                   ▸Référencer les services en ligne de l’organisation et mesurer leur visibilité. <br>
                   ▸Participer à l’évolution d’un site Web exploitant les données de l’organisation.
                  </p>
-                 <div class="full center">
-                    <a class="blue_bt" href="#">Voir un projet</a>
-                 </div>
+                  <div class="full nav-item dropdown">
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <div class="full dropdown-menu m-0">
+                        <a href="mission1.php" class="dropdown-item center">Mission 1</a>
+                        <a href="mission5.php" class="dropdown-item center">Mission 5</a>
+                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
+                        <a href="mission7.php" class="dropdown-item center">Mission 7</a>
+                     </div>
+                  </div>
               </div>
               
               <!-- n4 -->
@@ -95,8 +115,12 @@
                ▸Planifier les activités <br>
                ▸Évaluer les indicateurs de suivi d’un projet et analyser les écarts
                </p>
-               <div class="full center">
-                  <a class="blue_bt" href="#">Voir un projet</a>
+               <div class="full nav-item dropdown">
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <div class="full dropdown-menu m-0">
+                     <a href="mission8.php" class="dropdown-item center">Mission 8</a>
+                     <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                  </div>
                </div>
             </div> 
             
@@ -111,8 +135,15 @@
                ▸Déployer un service <br>
                ▸Accompagner les utilisateurs dans la mise en place d’un service
                </p>
-               <div class="full center">
-                  <a class="blue_bt" href="#">Voir un projet</a>
+               <div class="full nav-item dropdown">
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <div class="full dropdown-menu m-0">
+                     <a href="mission3.php" class="dropdown-item center">Mission 3</a>
+                     <a href="mission5.php" class="dropdown-item center">Mission 5</a>
+                     <a href="mission6.php" class="dropdown-item center">Mission 6</a>
+                     <a href="mission8.php" class="dropdown-item center">Mission 8</a>
+                     <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                  </div>
                </div>
             </div> 
 
@@ -128,8 +159,11 @@
                   ▸Gérer son identité professionnelle <br>
                   ▸Développer son projet professionnel
                </p>
-               <div class="full center">
-                  <a class="blue_bt" href="#">Voir un projet</a>
+               <div class="full nav-item dropdown">
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <div class="full dropdown-menu m-0">
+                     <a href="mission3.php" class="dropdown-item center">Mission 5</a>
+                  </div>
                </div>
             </div>
 

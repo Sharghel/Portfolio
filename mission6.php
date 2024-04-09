@@ -51,17 +51,21 @@
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           Pour la création du sharepoint j’ai dû :
-                           <ul>
-                              <li>Lire la documentation autours de sharepoint</li>
-                              <li>Me renseigner de plusieurs source différentes</li>
-                              <li>Utiliser la suite Microsoft</li>
-                           </ul>
-                           En Social :
-                           <ul>
-                              <li>Savoir synthétiser les demandes clientes</li>
-                              <li>Etre force de propositions</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Pour la création du sharepoint j’ai dû :
+                              </p>
+                              <li>- Lire la documentation autours de sharepoint</li>
+                              <li>- Me renseigner de plusieurs source différentes</li>
+                              <li>- Utiliser la suite Microsoft</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En Social :
+                              </p>
+                              <li>- Savoir synthétiser les demandes clientes</li>
+                              <li>- Etre force de propositions</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -71,27 +75,22 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>La suite Microsoft</li>
-                        </ul>
-                        Site externe :
-                        <ul>
-                           <li>Youtube pour pouvoir se former</li>
-                           <li>Forum en ligne pour pouvoir se former</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- La suite Microsoft</li>
+                        <li>- Youtube pour pouvoir se former</li>
+                        <li>- Forum en ligne pour pouvoir se former</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">

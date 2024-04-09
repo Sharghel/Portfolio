@@ -50,17 +50,22 @@
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
+
                         <div class="mini-info">
-                           AutoCAD :
-                           <ul>
-                              <li>Apprentissage des bases d'AutoCAD</li>
-                           </ul>
-                           Divers :
-                           <ul>
-                              <li>Utilisation de la suite Office</li>
-                              <li>utilisation des applications interne à l'entreprise</li>
-                              <li>Respect des procédures</li>
-                           </ul>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 AutoCAD :
+                              </p>
+                              <li>- Apprentissage des bases d'AutoCAD</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Divers :
+                              </p>
+                              <li>- Utilisation de la suite Office</li>
+                              <li>- utilisation des applications interne à l'entreprise</li>
+                              <li>- Respect des procédures</li>
+                           </ol>
                         </div>
                      </div>
                  </div>
@@ -70,27 +75,22 @@
       </section>
       <!-- end section -->
       <!-- section -->
-      <section class="section blue_pattern_bg" style="background-color: #3b3bff;">
-         <div class="container">
-            <div class="row">
+      <div class="row">
+         <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
+            <div class="container">
                <div class="time_table">
                   <div class="mini-title">Mes différents outils utilisés :</div>
-                     <div class="mini-info">
-                        Logiciel principal :
-                        <ul>
-                           <li>AutoCAD en général</li>
-                           <li>FME Server pour la transmission des changements</li>
-                        </ul>
-                        Outil secondaire :
-                        <ul>
-                           <li>Tableau recensant les demandes de modification sur les schémas</li>
-                        </ul>
-                     </div>
+                  <div class="mini-info">
+                     <ol class="h5">
+                        <li>- AutoCAD en général</li>
+                        <li>- FME Server pour la transmission des changements</li>
+                        <li>- Tableau recensant les demandes de modification sur les schémas</li>
+                     </ol>
                   </div>
                </div>
             </div>
-         </div>
-      </section>
+         </section>
+      </div>
       <!-- end section -->
       
       <section class="layout_padding section about_dottat">
