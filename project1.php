@@ -85,7 +85,6 @@
                         <li>- My SQL</li>
                         <li>- My SQLWorkbench</li>
                         <li>- PhpMyAdmin</li>
-                        <li>- Visual Studio Code</li>
                      </ol>
                   </div>
                </div>

@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Project X</h3>    
+               <h3>Project 2</h3>    
              </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</h2>
+                     <h2>Création d'un site de veille avec Laravel</h2>
                   </div>
                </div>
             </div>
@@ -34,7 +34,10 @@
                         <div class="full">
                            <p class="large">
                               
-                              PROJECT TEXT
+                           Ce projet marquait mes débuts avec le framework Laravel, une immersion dans un nouvel univers de développement web.
+                           Il s'agissait de créer un site de veille RSS, offrant la possibilité aux utilisateurs d'ajouter leurs propres flux d'information. 
+                           Une fois le développement achevé, nous avons pris la décision de l'héberger sur un serveur privé. Grâce à OVH, nous avons alors rendu 
+                           le site accessible à tous, offrant ainsi une plateforme de veille personnalisée et dynamique.
                               
                            </p>
                         </div>
@@ -49,15 +52,14 @@
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
                            <ol class="h5">
-                              <li>- Création d'un planning de tâches</li>
+                              <li> - Création d'un planning de tâches</li>
                               <li>- Définition de l'architecture du site</li>
-                              <li>- Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</li>
-                              <li>- Création de la requête sql pour la création de la base de donnée.</li>
-                              <li>- Création d'un repository GIT</li>
-                              <li>- Répartition des tâches au sein de l'équipe</li>
-                              <li>- Clean du template initial à l'aide de la définition de l'architecture</li>
+                              <li>- Apprentissage du modèle MCV (Model - Controler - View)</li>
+                              <li>- Installation de Laravel et des modules inhérents.</li>
+                              <li>- Création d'une base de données en migrate depuis Laravel</li>
                               <li>- Création des différentes pages du site</li>
-                              <li>- Sécurisation de la base de donnée et des mots de passes</li>
+                              <li>- Mise en place du formulaire pour l'implémentation des flux rss personnalisés</li>
+                              <li>- Création d'un repository GIT</li>
                               <li>- Test et mise sur serveur du site </li>
                            </ol>
                         </div>
@@ -79,9 +81,9 @@
                         <li>- Github</li>
                         <li>- Visual Studio Code</li>
                         <li>- AdminIo template</li>
-                        <li>- Full Calendar</li>
+                        <li>- Framwork PHP Laravel</li>
+                        <li>- SimpliePie pour gérer les flux RSS</li>
                         <li>- My SQL</li>
-                        <li>- My SQLWorkbench</li>
                         <li>- PhpMyAdmin</li>
                      </ol>
                   </div>
@@ -100,10 +102,11 @@
                         J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
                         ou d’autre élève quand j’avais des questions.
                         <br>
-                        Le projet à été commencé le 01/08/2023 au et fini le 01/01/2024.
+                        Le projet à été commencé le 01/01/2024 au et fini le 01/04/2024.
                         <br><br>
-                        Pour avoir accès au site vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://canin.sergeharghel.fr" target="_blank">ce lien</a>
-                        <br>Ou via ce lien : https://canin.sergeharghel.fr
+                        Pour avoir accès au site vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://veille.sergeharghel.fr" target="_blank">ce lien</a>
+                        <br>Ou via ce lien : https://veille.sergeharghel.fr
+                        <br>Le projet est accessible sur github avec <a class="lien" style="color: blue;" href="https://github.com/Sharghel/MDSProjectWebLaravel" target="_blank">ce lien</a>.
                      </p>
                   </div>
                </div>

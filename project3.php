@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Project X</h3>    
+               <h3>Project 3</h3>    
              </div>
           </div>
         </div>
@@ -23,7 +23,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</h2>
+                     <h2>Création d'une application lourde Visual Studio</h2>
                   </div>
                </div>
             </div>
@@ -34,7 +34,10 @@
                         <div class="full">
                            <p class="large">
                               
-                              PROJECT TEXT
+                           Ce projet représentait mon premier projet avec Visual Studio, me plongeant ainsi dans l'apprentissage des rudiments du langage C#. 
+                           Tout en répondant aux exigences du projet, j'ai dû assimiler une nouvelle logique de programmation. À la clôture du développement, 
+                           nous avons découvert la possibilité de transformer notre travail en une application lourde, ouvrant ainsi de nouvelles perspectives 
+                           pour notre projet.
                               
                            </p>
                         </div>
@@ -49,16 +52,11 @@
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
                            <ol class="h5">
-                              <li>- Création d'un planning de tâches</li>
-                              <li>- Définition de l'architecture du site</li>
-                              <li>- Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</li>
-                              <li>- Création de la requête sql pour la création de la base de donnée.</li>
-                              <li>- Création d'un repository GIT</li>
-                              <li>- Répartition des tâches au sein de l'équipe</li>
-                              <li>- Clean du template initial à l'aide de la définition de l'architecture</li>
-                              <li>- Création des différentes pages du site</li>
-                              <li>- Sécurisation de la base de donnée et des mots de passes</li>
-                              <li>- Test et mise sur serveur du site </li>
+                              <li>- Installation de Visual Studio et dépendances.</li>
+                              <li>- Apprentissage du C#.</li>
+                              <li>- Définition de l'architecture de l'application.</li>
+                              <li>- Mise en place du système de réservation de places.</li>
+                              <li>- Découverte du WindForm.</li>
                            </ol>
                         </div>
                      </div>
@@ -77,12 +75,7 @@
                   <div class="mini-info">
                      <ol class="h5">
                         <li>- Github</li>
-                        <li>- Visual Studio Code</li>
-                        <li>- AdminIo template</li>
-                        <li>- Full Calendar</li>
-                        <li>- My SQL</li>
-                        <li>- My SQLWorkbench</li>
-                        <li>- PhpMyAdmin</li>
+                        <li>- Visual Studio</li>
                      </ol>
                   </div>
                </div>
@@ -97,13 +90,11 @@
                <div class="col-lg-12 text_align_center">
                   <div class="full">
                      <p class="large">
-                        J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
-                        ou d’autre élève quand j’avais des questions.
+                        J'ai fait ce projet avec l'aide de mon intervenant quand j’avais des questions.
                         <br>
-                        Le projet à été commencé le 01/08/2023 au et fini le 01/01/2024.
+                        Le projet à été commencé le 01/02/2024 au et fini le 31/02/2024.
                         <br><br>
-                        Pour avoir accès au site vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://canin.sergeharghel.fr" target="_blank">ce lien</a>
-                        <br>Ou via ce lien : https://canin.sergeharghel.fr
+                        Pour avoir accès au lien github vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://github.com/Sharghel/MDSProjectBilletTheaterWindForm" target="_blank">ce lien</a>.
                      </p>
                   </div>
                </div>
