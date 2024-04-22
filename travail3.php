@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 2</h3>    
+               <h3>Travaux 3</h3>    
              </div>
           </div>
         </div>
@@ -24,59 +24,66 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Apprentissage de docker</h2>
+                     <h2>Intégration d'une BDD en php</h2>
                   </div>
                </div>
             </div>
-            <section class="layout_padding section about_dottat">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-12 text_align_center">
-                        <div class="full">
-                           <p class="large">
-                              
-                              Pour l’apprentissage de docker nous avons fait plusieurs taches différentes,
-                              Nous avons commencé par une introduction à Docker pour expliquer les conteneurs puis nous avons importé certaines images comme le docker compose par exemple.
-                              
-                              Ensuite nous avions un petit projet dans lequel nous devions faire des volumes docker pour héberger 3 sites différents qui pointent vers nos fichiers.
-                              Grâce à cela nous pouvions modifier nos codes HTML et voir la modification en temps réel.
-                           </p>
+               <section class="layout_padding section about_dottat">
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-lg-12 text_align_center">
+                           <div class="full">
+                              <p class="large">
+                                 Avec la base d’un template nous avions pour but de créer du code php pour incrémenter un tableau en html.
+                                 Cet avec ce projet que nous avions pu voir les fondamentaux de php ainsi que les prémices des classes.
+                              </p>
+                           </div>
                         </div>
                      </div>
                   </div>
-               </div>
-            </section>
+               </section>
             <div class="row">
-               <div class="col-md-12 cours_timging_bg">
-                  <div class="container">
-                     <div class="time_table">
+              <div class="col-md-12 cours_timging_bg">
+                 <div class="container">
+                    <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Pour résoudre ce projet nous avons du apprendre à :
+                                 Pour la création de ce site web j’ai dû, développer mes connaissances en PHP :
                               </p>
-                              <li>- Utiliser une machine virtuelle linux</li>
-                              <li>- Ainsi que les lignes de commandes</li>
+                              <li>- Les bases du PHP</li>
+                              <li>- Traitement des requêtes http en get et post</li>
+                              <li>- Visions sur les classes</li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Une fois la page rendu accessible nous devions la rendre dynamique pour voir les modifications en temps réel :
-                                 </p>
-                                 <li>- Découverte des volumes avec docker</li>
-                                 <li>- Faire une démonstration ensutie à l'intervenant</li>
-                              </ol>
-                           </div>
+                                 En SQL :
+                              </p>
+                              <li>- Création de requêtes préparée</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 En Sécurité :
+                              </p>
+                              <li>- Utilisation de la PDO</li>
+                              <li>- Faire des tests contre les injections</li>
+                           </ol>
+                           <ol class="h5">
+                              <p class="mini-title" style="font-size: 25px;">
+                                 Divers :
+                              </p>
+                              <li>- Comment développer en suivant une maquette</li>
+                              <li>- Organisation d'un fichier (découpage, ordre)</li>
+                           </ol>
                         </div>
                      </div>
-                  </div> 
-               </div>
+                 </div>
+              </div> 
             </div>
          </div>
       </section>
       <!-- end section -->
-         
-         
       <!-- section -->
       <div class="row">
          <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
@@ -85,12 +92,8 @@
                   <div class="mini-title">Mes différents outils utilisés :</div>
                   <div class="mini-info">
                      <ol class="h5">
-                        <li>- VMWare sur lequel nous avions mis une version de linux</li>
-                        <li>- La version de Linux était la 20.0.4</li>
-                        <li>- Docker</li>
-                        <li>- wordpress</li>
-                        <li>- nginx</li>
-                        <li>- docker-compose</li>
+                        <li>- VSCode pour le code en général</li>
+                        <li>- Figma pour l’accès à la maquette</li>
                      </ol>
                   </div>
                </div>
@@ -107,8 +110,8 @@
                      <p class="large">J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
                         ou d’autre élève quand j’avais des questions.
                         <br>
-                        la durée du projet a un total d'environ une quarantaine d'heures.
-                     </p>
+                        Le projet à été commencé le 2022 et fini le 2023. En tout nous avions travailler dessus l'équivalent d'une semaine
+                        </p>
                   </div>
                </div>
             </div>

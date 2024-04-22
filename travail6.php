@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 5</h3>    
+               <h3>Travaux 6</h3>    
              </div>
           </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Création d'un portfolio</h2>
+                     <h2>Création d'un Sharepoint interne à l'entreprise</h2>
                   </div>
                </div>
             </div>
@@ -34,10 +34,12 @@
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
                               <p class="large">
-                                 Pour la création d’un portfolio nous étions plus ou moins libre sur comment nous pouvions le faire, que ce soit sur Wordpress, Wix, Odoo, via Framework, suivant une template ou même en natif si l’on souhaite. <br>
-                                 Me concernant j’ai pris le choix de le faire en natif en me basant depuis un template.
-                                 Ce choix ne m’a pas freiné dans la création de ce site pour autant car j’ai quand même souhaité à apporter des améliorations pour rendre le site + agréable.
-                              </p>
+                                 Lors de mon alternance j'ai du créer et parametrer un sharepoint interne d'entreprise, 
+                                 j'ai eu la chance d'être dans le même bureau que la personne souhaitant ce sharepoint ce qui m'a permis d'avoir des indications précises des attendus
+                                 <!-- Dans le cadre de mon entreprise j’ai du faire la création d’un sharepoint online pour pouvoir concentrer l’activité CONVEX entre toute la France sur un seul portail à la place de 5 différents.
+                                    Le défis était de taille puisque j’ai du satisfaire les demandes de plusieurs agents en même temps malgré que leurs avis soient parfois divergent.
+                                    J’ai notamment dû être capable de faire plusieurs affichage puisque personne ne voulais le même 
+                                    -->
                            </div>
                         </div>
                      </div>
@@ -48,28 +50,21 @@
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
-                        
                         <div class="mini-info">
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Pour la création de ce site web j’ai dû apprendre à refaire du HTML :
+                                 Pour la création du sharepoint j’ai dû :
                               </p>
-                              <li>- Revoir un code déjà existant, le comprendre et l'améliorer</li>
-                              <li>- être capable de pouvoir simplifier le code déjà existant</li>
+                              <li>- Lire la documentation autours de sharepoint</li>
+                              <li>- Me renseigner de plusieurs source différentes</li>
+                              <li>- Utiliser la suite Microsoft</li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 En Ajout :
+                                 En Social :
                               </p>
-                              <li>- Rajouter des parties importantes (scroller dynamiques)</li>
-                           </ol>
-                           <ol class="h5">
-                              <p class="mini-title" style="font-size: 25px;">
-                                 Divers :
-                              </p>
-                              <li>- Acheter un nom de domaine</li>
-                              <li>- Paramètrer un server pour herger le site</li>
-                              <li>- Sécuriser le site avec un protocole ssh</li>
+                              <li>- Savoir synthétiser les demandes clientes</li>
+                              <li>- Etre force de propositions</li>
                            </ol>
                         </div>
                      </div>
@@ -87,9 +82,9 @@
                   <div class="mini-title">Mes différents outils utilisés :</div>
                   <div class="mini-info">
                      <ol class="h5">
-                        <li>- VSCode pour le code en général</li>
-                        <li>- Figma pour l’accès à la maquette</li>
-                        <li>- Site Microlead avec les sections à propos de HTML et CSS</li>
+                        <li>- La suite Microsoft</li>
+                        <li>- Youtube pour pouvoir se former</li>
+                        <li>- Forum en ligne pour pouvoir se former</li>
                      </ol>
                   </div>
                </div>
@@ -103,9 +98,10 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full">
-                     <p class="large">J'ai fait ce projet seul.
+                     <p class="large">J'ai fait ce projet seul mais j’ai pu être aidé par mes différents collègues pour mieux comprendre leurs besoins 
                         <br>
-                        Le projet à été commencé en 2023 et fini en 2024 avec environ 50Heures de travail cummulé.
+                        Le projet à été commencé le 01/01/2023 et fini le 31/06/2023.
+                        <br><br>
                      </p>
                   </div>
                </div>

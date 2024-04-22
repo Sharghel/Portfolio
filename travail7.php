@@ -11,7 +11,7 @@
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 3</h3>    
+               <h3>Travaux 7</h3>    
              </div>
           </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Intégration d'une BDD en php</h2>
+                     <h2>Mise à jour de fichier Excel</h2>
                   </div>
                </div>
             </div>
@@ -34,9 +34,10 @@
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
                               <p class="large">
-                                 Avec la base d’un template nous avions pour but de créer du code php pour incrémenter un tableau en html.
-                                 Cet avec ce projet que nous avions pu voir les fondamentaux de php ainsi que les prémices des classes.
-                              </p>
+                              Lors de mon alternance, j'ai dû travailler sur de nombreux fichiers Excel. Ce fut la mission principale de ma formation : 
+                              je devais maintenir en fonctionnement les fichiers existants tout en réhabilitant les différents fichiers qui m'étaient confiés. 
+                              Ces différents fichiers m'ont appris à comprendre précisément les demandes des utilisateurs, puis à les appliquer. En plus du côté social, 
+                              j'ai notamment pu apprendre beaucoup sur Excel, qui est une application très complète et complexe.
                            </div>
                         </div>
                      </div>
@@ -47,34 +48,28 @@
                  <div class="container">
                     <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
+                        
                         <div class="mini-info">
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Pour la création de ce site web j’ai dû, développer mes connaissances en PHP :
+                                 Pour résoudre les différence problème j'ai du développer mes connaissances sur Excel :
                               </p>
-                              <li>- Les bases du PHP</li>
-                              <li>- Traitement des requêtes http en get et post</li>
-                              <li>- Visions sur les classes</li>
+                              <li>- Apprentissage des notions de bases d'Excel</li>
+                              <li>- Approfondissement des formules</li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 En SQL :
+                                 En VBA :
                               </p>
-                              <li>- Création de requêtes préparée</li>
-                           </ol>
-                           <ol class="h5">
-                              <p class="mini-title" style="font-size: 25px;">
-                                 En Sécurité :
-                              </p>
-                              <li>- Utilisation de la PDO</li>
-                              <li>- Faire des tests contre les injections</li>
+                              <li>- Découverte du VBA</li>
+                              <li>- Création de Macro complexe en VBA</li>
+                              <li>- Maintenance de code VBA</li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
                                  Divers :
                               </p>
-                              <li>- Comment développer en suivant une maquette</li>
-                              <li>- Organisation d'un fichier (découpage, ordre)</li>
+                              <li>- Relation client, savoir synthétiser les demandes</li>
                            </ol>
                         </div>
                      </div>
@@ -92,8 +87,8 @@
                   <div class="mini-title">Mes différents outils utilisés :</div>
                   <div class="mini-info">
                      <ol class="h5">
-                        <li>- VSCode pour le code en général</li>
-                        <li>- Figma pour l’accès à la maquette</li>
+                        <li>- Excel, Suite Microsoft</li>
+                        <li>- Formation Interne sur Excel</li>
                      </ol>
                   </div>
                </div>
@@ -107,11 +102,9 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full">
-                     <p class="large">J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
-                        ou d’autre élève quand j’avais des questions.
-                        <br>
-                        Le projet à été commencé le 2022 et fini le 2023. En tout nous avions travailler dessus l'équivalent d'une semaine
-                        </p>
+                     <p class="large">
+                        Ce travaux à commencé le 01/09/2022 et fini le 04/03/2024.
+                     </p>
                   </div>
                </div>
             </div>

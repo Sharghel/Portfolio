@@ -5,13 +5,13 @@
       <!-- header -->
       <?php require_once('include/header.php')?>
       <!-- end header -->
-      
+
       <!-- section -->
       <section class="main_full inner_page">
         <div class="container-fluid">
           <div class="row">
              <div class="full">
-               <h3>Mission 1</h3>    
+               <h3>Travaux 2</h3>    
              </div>
           </div>
         </div>
@@ -24,84 +24,59 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Intégration d'une maquette en HTML CSS Groundesk</h2>
+                     <h2>Apprentissage de docker</h2>
                   </div>
                </div>
             </div>
-               <section class="layout_padding section about_dottat">
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-lg-12 text_align_center">
-                           <div class="full">
-                              <p class="large">J’ai réalisé une intégration de maquette en HTML5 et CSS. 
-                                 J’ai appris et mis en œuvre mes compétences en développement web pour donner vie à une conception 
-                                 précise et élégante, explorant de nouvelles techniques de mise en page et améliorant ma compréhension 
-                                 des principes de conception responsive.
-                                 Cette intégration de maquette a été un accomplissement personnel et m’a permis d’apprendre 
-                                 beaucoup sur la conception web en général.<br><br>vous pouvez voir le projet grâce à ce 
-                                 <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main"> lien Github</a>.</p>
-                           </div>
+            <section class="layout_padding section about_dottat">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-12 text_align_center">
+                        <div class="full">
+                           <p class="large">
+                              
+                              Pour l’apprentissage de docker nous avons fait plusieurs taches différentes,
+                              Nous avons commencé par une introduction à Docker pour expliquer les conteneurs puis nous avons importé certaines images comme le docker compose par exemple.
+                              
+                              Ensuite nous avions un petit projet dans lequel nous devions faire des volumes docker pour héberger 3 sites différents qui pointent vers nos fichiers.
+                              Grâce à cela nous pouvions modifier nos codes HTML et voir la modification en temps réel.
+                           </p>
                         </div>
                      </div>
                   </div>
-               </section>
+               </div>
+            </section>
             <div class="row">
                <div class="col-md-12 cours_timging_bg">
                   <div class="container">
                      <div class="time_table">
                         <div class="mini-title">Description des tâches :</div>
                         <div class="mini-info">
-                           <!-- <ol class="h5">
-                              <li>- Création d'un planning de tâches</li>
-                              <li>- Définition de l'architecture du site</li>
-                              <li>- Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</li>
-                              <li>- Création de la requête sql pour la création de la base de donnée.</li>
-                              <li>- Création d'un repository GIT</li>
-                              <li>- Répartition des tâches au sein de l'équipe</li>
-                              <li>- Clean du template initial à l'aide de la définition de l'architecture</li>
-                              <li>- Création des différentes pages du site</li>
-                              <li>- Sécurisation de la base de donnée et des mots de passes</li>
-                              <div class="mini-title">Description des tâches :</div>
-                              <li>- Test et mise sur serveur du site </li>
-                           </ol> -->
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 Pour la création de ce site web j’ai dû, développer mes connaissances en HTML :
+                                 Pour résoudre ce projet nous avons du apprendre à :
                               </p>
-                              <li>- Sémantique de base</li>
-                              <li>- Création d'un fichier html</li>
+                              <li>- Utiliser une machine virtuelle linux</li>
+                              <li>- Ainsi que les lignes de commandes</li>
                            </ol>
                            <ol class="h5">
                               <p class="mini-title" style="font-size: 25px;">
-                                 En CSS :
-                              </p>
-                              <li>- Découverte des classes</li>
-                              <li>- Changement de style (la typographie par exemple)</li>
-                              <li>- Découverte du flexbox</li>
-                           </ol>
-                           <ol class="h5">
-                              <p class="mini-title" style="font-size: 25px;">
-                                 En javascript :
-                              </p>
-                              <li>- Création d'une fonction</li>
-                              <li>- Modifcation d'une valeur html</li>
-                              <li>- Attribution d'une valeur</li>
-                           </ol>
-                           <ol class="h5">
-                              <p class="mini-title" style="font-size: 25px;">
-                                 Divers :
-                              </p>
-                              <li>- Comment développer en suivant une maquette</li>
-                              <li>- Organisation d'un fichier (découpage, ordre)</li>
-                           </ol>
+                                 Une fois la page rendu accessible nous devions la rendre dynamique pour voir les modifications en temps réel :
+                                 </p>
+                                 <li>- Découverte des volumes avec docker</li>
+                                 <li>- Faire une démonstration ensutie à l'intervenant</li>
+                              </ol>
+                           </div>
                         </div>
                      </div>
-                 </div>
-              </div> 
+                  </div> 
+               </div>
             </div>
          </div>
       </section>
       <!-- end section -->
+         
+         
       <!-- section -->
       <div class="row">
          <section class="section blue_pattern_bg col-md-12" style="background-color: #3b3bff;">
@@ -110,13 +85,13 @@
                   <div class="mini-title">Mes différents outils utilisés :</div>
                   <div class="mini-info">
                      <ol class="h5">
-                           <li>- VSCode pour le code en général</li>
-                           <li>- Figma pour l’accès à la maquette</li>
-                           <li>- Stackoverflow pour les erreurs éventuelles</li>
-                           <li>- Flexboxfroggy pour apprendre les particularités de flexbox</li>
-                           <li>- Github pour le stockage en cloud de mes fichiers et pour faciliter leurs accès</li>
-                        </ol>
-                     </div>
+                        <li>- VMWare sur lequel nous avions mis une version de linux</li>
+                        <li>- La version de Linux était la 20.0.4</li>
+                        <li>- Docker</li>
+                        <li>- wordpress</li>
+                        <li>- nginx</li>
+                        <li>- docker-compose</li>
+                     </ol>
                   </div>
                </div>
             </div>
@@ -130,12 +105,10 @@
                <div class="col-lg-12 text_align_center">
                   <div class="full">
                      <p class="large">J'ai fait ce projet en grande parti seul mais j’ai pu être aidé par mon intervenant 
-                        ou d’autre élèves quand j’avais des questions.
+                        ou d’autre élève quand j’avais des questions.
                         <br>
-                        Le projet à été commencé le 20/12/2022 et fini le 14/06/2023.
-                        <br><br>
-                        Pour avoir accès à la maquette vous pouvez cliquer sur <a class="lien" style="color: blue;" href="https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main">ce lien</a>
-                        <br>Ou via ce lien : https://github.com/Sharghel/BTSSIO_Year1/tree/main/Integration_statique-Saas-main</p>
+                        la durée du projet a un total d'environ une quarantaine d'heures.
+                     </p>
                   </div>
                </div>
             </div>
@@ -221,7 +194,6 @@
         </div>
       </div> -->
       <!-- end footer -->
-      
       <!-- Core JavaScript
          ================================================== -->
       <script src="js/jquery.min.js"></script>

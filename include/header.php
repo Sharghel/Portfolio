@@ -26,21 +26,31 @@
                                             <a class="nav-link color-aqua-hover" href="btssio.php">BTS SIO</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a class="nav-link color-aqua-hover" href="competences.php">Compétences</a>
+                                            <div class="nav-item dropdown">
+                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Compétences</a>
+                                                <div class="dropdown-menu m-0">
+                                                    <a href="competence1.php" class="dropdown-item center">Compétence 1</a>
+                                                    <a href="competence2.php" class="dropdown-item center">Compétence 2</a>
+                                                    <a href="competence3.php" class="dropdown-item center">Compétence 3</a>
+                                                    <a href="competence4.php" class="dropdown-item center">Compétence 4</a>
+                                                    <a href="competence5.php" class="dropdown-item center">Compétence 5</a>
+                                                    <a href="competence6.php" class="dropdown-item center">Compétence 6</a>
+                                                </div>
+                                            </div>
                                         </li>
                                         <li class="nav-item">
                                             <div class="nav-item dropdown">
-                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Missions</a>
+                                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Travaux</a>
                                                 <div class="dropdown-menu m-0">
-                                                    <a href="mission1.php" class="dropdown-item center">Mission 1</a>
-                                                    <a href="mission2.php" class="dropdown-item center">Mission 2</a>
-                                                    <a href="mission3.php" class="dropdown-item center">Mission 3</a>
-                                                    <a href="mission4.php" class="dropdown-item center">Mission 4</a>
-                                                    <a href="mission5.php" class="dropdown-item center">Mission 5</a>
-                                                    <a href="mission6.php" class="dropdown-item center">Mission 6</a>
-                                                    <a href="mission7.php" class="dropdown-item center">Mission 7</a>
-                                                    <a href="mission8.php" class="dropdown-item center">Mission 8</a>
-                                                    <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                                                    <a href="travail1.php" class="dropdown-item center">Travaux n°1</a>
+                                                    <a href="travail2.php" class="dropdown-item center">Travaux n°2</a>
+                                                    <a href="travail3.php" class="dropdown-item center">Travaux n°3</a>
+                                                    <a href="travail4.php" class="dropdown-item center">Travaux n°4</a>
+                                                    <a href="travail5.php" class="dropdown-item center">Travaux n°5</a>
+                                                    <a href="travail6.php" class="dropdown-item center">Travaux n°6</a>
+                                                    <a href="travail7.php" class="dropdown-item center">Travaux n°7</a>
+                                                    <a href="travail8.php" class="dropdown-item center">Travaux n°8</a>
+                                                    <a href="travail9.php" class="dropdown-item center">Travaux n°9</a>
                                                 </div>
                                             </div>
                                         </li>

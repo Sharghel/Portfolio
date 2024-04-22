@@ -48,13 +48,13 @@
                   ▸Vérifier le respect des règles d’utilisation des ressources numériques
                  </p>
                   <div class="full nav-item dropdown">
-                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                      <div class="full dropdown-menu m-0">
-                        <a href="mission1.php" class="dropdown-item center">Mission 1</a>
-                        <a href="mission2.php" class="dropdown-item center">Mission 2</a>
-                        <a href="mission3.php" class="dropdown-item center">Mission 3</a>
-                        <a href="mission4.php" class="dropdown-item center">Mission 4</a>
-                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
+                        <a href="travail1.php" class="dropdown-item center">Travail 1</a>
+                        <a href="travail2.php" class="dropdown-item center">Travail 2</a>
+                        <a href="travail3.php" class="dropdown-item center">Travail 3</a>
+                        <a href="travail4.php" class="dropdown-item center">Travail 4</a>
+                        <a href="travail6.php" class="dropdown-item center">Travail 6</a>
                      </div>
                   </div>
               </div>
@@ -71,13 +71,13 @@
                   ▸Traiter des demandes concernant les applications
                  </p>
                  <div class="full nav-item dropdown">
-                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                      <div class="full dropdown-menu m-0">
-                        <a href="mission4.php" class="dropdown-item center">Mission 4</a>
-                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
-                        <a href="mission7.php" class="dropdown-item center">Mission 7</a>
-                        <a href="mission8.php" class="dropdown-item center">Mission 8</a>
-                        <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                        <a href="travail4.php" class="dropdown-item center">Travail 4</a>
+                        <a href="travail6.php" class="dropdown-item center">Travail 6</a>
+                        <a href="travail7.php" class="dropdown-item center">Travail 7</a>
+                        <a href="travail8.php" class="dropdown-item center">Travail 8</a>
+                        <a href="travail9.php" class="dropdown-item center">Travail 9</a>
                      </div>
                   </div>
               </div> 
@@ -94,12 +94,12 @@
                   ▸Participer à l’évolution d’un site Web exploitant les données de l’organisation.
                  </p>
                   <div class="full nav-item dropdown">
-                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                     <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                      <div class="full dropdown-menu m-0">
-                        <a href="mission1.php" class="dropdown-item center">Mission 1</a>
-                        <a href="mission5.php" class="dropdown-item center">Mission 5</a>
-                        <a href="mission6.php" class="dropdown-item center">Mission 6</a>
-                        <a href="mission7.php" class="dropdown-item center">Mission 7</a>
+                        <a href="travail1.php" class="dropdown-item center">Travail 1</a>
+                        <a href="travail5.php" class="dropdown-item center">Travail 5</a>
+                        <a href="travail6.php" class="dropdown-item center">Travail 6</a>
+                        <a href="travail7.php" class="dropdown-item center">Travail 7</a>
                      </div>
                   </div>
               </div>
@@ -109,17 +109,17 @@
                <div class="cours">
                  <img class="img-responsive" src="images/competences/cour4.jpg" alt="#" />
                </div>
-               <h3 class="taille_h3">Travailler en mode projet</h3>
+               <h3 class="taille_h3">Travaillil en mode projet</h3>
                <p class="taille_p2">  
                ▸Analyser les objectifs et les modalités d’organisation d’un projet <br>
                ▸Planifier les activités <br>
                ▸Évaluer les indicateurs de suivi d’un projet et analyser les écarts
                </p>
                <div class="full nav-item dropdown">
-                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                   <div class="full dropdown-menu m-0">
-                     <a href="mission8.php" class="dropdown-item center">Mission 8</a>
-                     <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                     <a href="travail8.php" class="dropdown-item center">Travail 8</a>
+                     <a href="travail9.php" class="dropdown-item center">Travail 9</a>
                   </div>
                </div>
             </div> 
@@ -136,13 +136,13 @@
                ▸Accompagner les utilisateurs dans la mise en place d’un service
                </p>
                <div class="full nav-item dropdown">
-                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                   <div class="full dropdown-menu m-0">
-                     <a href="mission3.php" class="dropdown-item center">Mission 3</a>
-                     <a href="mission5.php" class="dropdown-item center">Mission 5</a>
-                     <a href="mission6.php" class="dropdown-item center">Mission 6</a>
-                     <a href="mission8.php" class="dropdown-item center">Mission 8</a>
-                     <a href="mission9.php" class="dropdown-item center">Mission 9</a>
+                     <a href="travail3.php" class="dropdown-item center">Travail 3</a>
+                     <a href="travail5.php" class="dropdown-item center">Travail 5</a>
+                     <a href="travail6.php" class="dropdown-item center">Travail 6</a>
+                     <a href="travail8.php" class="dropdown-item center">Travail 8</a>
+                     <a href="travail9.php" class="dropdown-item center">Travail 9</a>
                   </div>
                </div>
             </div> 
@@ -160,9 +160,9 @@
                   ▸Développer son projet professionnel
                </p>
                <div class="full nav-item dropdown">
-                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir une mission</a>
+                  <a href="#" class="blue_bt dropdown-toggle" data-toggle="dropdown">Voir les travaux</a>
                   <div class="full dropdown-menu m-0">
-                     <a href="mission3.php" class="dropdown-item center">Mission 5</a>
+                     <a href="travail3.php" class="dropdown-item center">Travail 5</a>
                   </div>
                </div>
             </div>
@@ -228,7 +228,7 @@
                         <li><a href="#">Starting Soon</a></li>
                         <li><a href="#">Just Added</a></li>
                         <li><a href="#">Most Viewed</a></li>
-                        <li><a href="#">Top Paid</a></li>
+                        <li><a href="#">Til Paid</a></li>
                      </ul>
                   </div>
                </div>
