@@ -110,6 +110,8 @@
             </div>
          </div>
       </section>
+      
+      <?php require_once('include/footer.php')?>
       <!-- Core JavaScript
          ================================================== -->
       <script src="js/jquery.min.js"></script>
