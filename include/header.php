@@ -65,6 +65,9 @@
                                                 </div>
                                             </div>
                                         </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link color-aqua-hover" href="repertoire.php">Répertoire</a>
+                                        </li>
                                         <!-- <li class="nav-item">
                                         <a class="nav-link color-grey-hover" href="contact.php">Contact Us</a>
                                         </li>
