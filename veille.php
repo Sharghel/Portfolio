@@ -15,7 +15,7 @@
                   <img class="img-responsive" src="images/slider_img.png" alt="#" />
                   <div class="slide_cont">
                      <div class="slider_cont_inner">
-                        <h3 class="display-1">BTS SIO 2024</h3>
+                        <h3 class="display-1">Veille</h3>
                         <p>Serge Harghel</p>
                      </div>
                   </div>
@@ -32,23 +32,15 @@
             <div class="row">
                <div class="col-lg-12 text_align_center">
                   <div class="full heading_s1">
-                     <h2>Bienvenue sur la présentation de mon portfolio</h2>
+                     <h2>Qu'est ce que la veille technologique ?</h2>
                   </div>
                   <div class="full">
-                     <!-- <p class="large">
-                        Bienvenue sur la présentation de mon portfolio
-                     </p> -->
+                     <p class="large">
+                     La veille technologique consiste à se tenir informé des techniques les plus récentes, et surtout de leur disponibilité commerciale <br>
+                     (ce qui distingue la technique de la technologie). Cette activité implique l'utilisation de techniques d'acquisition, de stockage et d'analyse d'informations, <br>
+                     ainsi que leur distribution automatique aux différentes sections concernées de l'entreprise, de manière similaire à une revue de presse.
+                     </p>
                   </div>
-               </div>
-               <div class="col-md-12 testimonial">
-                  <div class="full cours text_align_center">
-                     <img src="images/visage2.jpg" alt="#" />
-                     <h3><span class="theme_color_text">Serge</span> Harghel</h3>
-                  </div>
-                  <!-- <div class="full margin_top_30 text_align_center">
-                    <h4>I have successfully complated</h4>
-                    <p>adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud<br>exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in re</p>
-                  </div> -->
                </div>
             </div>
         </div>

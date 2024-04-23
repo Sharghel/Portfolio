@@ -26,6 +26,9 @@
                                             <a class="nav-link color-aqua-hover" href="btssio.php">BTS SIO</a>
                                         </li>
                                         <li class="nav-item">
+                                            <a class="nav-link color-aqua-hover" href="veille.php">Veille</a>
+                                        </li>
+                                        <li class="nav-item">
                                             <div class="nav-item dropdown">
                                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Compétences</a>
                                                 <div class="dropdown-menu m-0">
@@ -67,6 +70,9 @@
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link color-aqua-hover" href="repertoire.php">Répertoire</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link color-aqua-hover" href="entreprise.php">Alternance</a>
                                         </li>
                                         <!-- <li class="nav-item">
                                         <a class="nav-link color-grey-hover" href="contact.php">Contact Us</a>

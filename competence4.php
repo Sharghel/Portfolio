@@ -14,7 +14,7 @@
                      <img class="img-responsive" src="images/slider_img.png" alt="#" />
                      <div class="slide_cont">
                         <div class="slider_cont_inner">
-                           <h3 class="display-1"style="">Travailler en mode projet</h3>
+                           <h3 class="display-1">Travailler en mode projet</h3>
                            <p><a style="text-decoration: none; color: white;" href="index.php">Accueil</a><i class="fa fa-angle-double-right pt-1 px-3"></i> Compétence 4</p>
                         </div>
                      </div>
@@ -54,7 +54,7 @@
       
       
       <!-- section -->
-      <section class=" section">
+      <section class="section" style="padding-bottom: 90px;">
          <div class="container-fluid">
             <div class="row">
                <div class="col-1"></div>

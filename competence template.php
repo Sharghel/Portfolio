@@ -14,7 +14,7 @@
                      <img class="img-responsive" src="images/slider_img.png" alt="#" />
                      <div class="slide_cont">
                         <div class="slider_cont_inner">
-                           <h3 class="display-1"style="">TITRE_DE_LA_COMPETENCE</h3>
+                           <h3 class="display-1">TITRE_DE_LA_COMPETENCE</h3>
                            <p><a style="text-decoration: none; color: white;" href="index.php">Accueil</a><i class="fa fa-angle-double-right pt-1 px-3"></i> Compétence NUMERO_COMPETENCE</p>
                         </div>
                      </div>
