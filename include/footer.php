@@ -70,7 +70,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-            <p>Copyright 2024. Tout droits réservés.<a href="XXXXXXXXXXXXXXXXXXXXxx">Voir les droits</a></p>
+            <p>Copyright 2024. Tout droits réservés.<a href="legals.php">Voir les droits</a></p>
             </div>
         </div>
     </div>

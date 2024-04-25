@@ -90,7 +90,6 @@
                         </p>
                      </div>
                   </div>
-
                   <!-- Travaux 6 -->
                   <div>
                      <a href="travail6.php" target="_blank" style="display:inline-block; vertical-align:top">
@@ -135,7 +134,20 @@
                         </p>
                      </div>
                   </div>
-
+                  <!-- Travaux 10 -->
+                  <div>
+                     <a href="travail10.php" target="_blank" style="display:inline-block; vertical-align:top">
+                        <div style="width:77px; height:77px;" class="btn-icon bg-primary mr-4">
+                           <i class="fa fa-2x fa-graduation-cap text-white" style="padding:25px 0px 0px 20px"></i>
+                        </div>
+                     </a>
+                     <div class="mt-n1" style="display:inline-block">
+                        <h4>Travaux 10 : Création d'un script bash</h4>
+                        <p>
+                           ▸Déployer un service <br>
+                        </p>
+                     </div>
+                  </div>
                   <!-- Projet 1 -->
                   <div>
                      <a href="project1.php" target="_blank" style="display:inline-block; vertical-align:top">

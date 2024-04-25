@@ -251,6 +251,19 @@
                         <br>
                      </td>
                   </tr>
+                  <!-- 10 -->
+                  <tr>
+                     <td style="vertical-align: middle;text-align: center;"><a href="travail10.php" target="_blank" class="btn btn-info">Travaux 10</a></td>
+                     <td style="vertical-align: middle;text-align: center;">Création d'un script bash</td>
+                     <td>
+                        Mettre à disposition des utilisateurs un service informatique <br>
+                        <br>
+                     </td>
+                     <td style="font-size: 15px;">
+                        ▸ Déployer un service <br>
+                        <br>
+                     </td>
+                  </tr>
                   <!-- Add more rows as needed -->
                </tbody>
             </table>

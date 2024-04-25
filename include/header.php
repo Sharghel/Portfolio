@@ -54,6 +54,7 @@
                                                     <a href="travail7.php" class="dropdown-item center">Travaux n°7</a>
                                                     <a href="travail8.php" class="dropdown-item center">Travaux n°8</a>
                                                     <a href="travail9.php" class="dropdown-item center">Travaux n°9</a>
+                                                    <a href="travail10.php" class="dropdown-item center">Travaux n°10</a>
                                                 </div>
                                             </div>
                                         </li>
