@@ -109,7 +109,7 @@
                <div class="cours">
                  <img class="img-responsive" src="images/competences/cour4.jpg" alt="#" />
                </div>
-               <h3 class="taille_h3">Travaillil en mode projet</h3>
+               <h3 class="taille_h3">Travaill en mode projet</h3>
                <p class="taille_p2">  
                ▸Analyser les objectifs et les modalités d’organisation d’un projet <br>
                ▸Planifier les activités <br>
