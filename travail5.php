@@ -28,21 +28,22 @@
                   </div>
                </div>
             </div>
-               <section class="layout_padding section about_dottat">
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-lg-12 text_align_center">
-                           <div class="full">
-                              <p class="large">
-                                 Pour la création d’un portfolio nous étions plus ou moins libre sur comment nous pouvions le faire, que ce soit sur Wordpress, Wix, Odoo, via Framework, suivant une template ou même en natif si l’on souhaite. <br>
-                                 Me concernant j’ai pris le choix de le faire en natif en me basant depuis un template.
-                                 Ce choix ne m’a pas freiné dans la création de ce site pour autant car j’ai quand même souhaité à apporter des améliorations pour rendre le site + agréable.
-                              </p>
-                           </div>
+            <section class="layout_padding section about_dottat">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-12 text_align_center">
+                        <div class="full">
+                           <p class="large">
+                              Pour la création d’un portfolio, nous avions plus ou moins la liberté quant à la manière de le réaliser, que ce soit sur Wordpress, Wix, Odoo, 
+                              via un framework, en suivant un modèle de conception ou même en partant de zéro si l'on souhaite.
+                              Me concernant, j’ai choisi de le faire en me basant sur un template en natif. 
+                              Ce choix ne m’a pas freiné dans la création de ce site pour autant, car j’ai quand même souhaité apporter des améliorations pour rendre le site plus agréable.
+                           </p>
                         </div>
                      </div>
                   </div>
-               </section>
+               </div>
+            </section>
             <div class="row">
               <div class="col-md-12 cours_timging_bg">
                  <div class="container">

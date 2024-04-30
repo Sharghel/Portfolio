@@ -34,8 +34,9 @@
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
                               <p class="large">
-                                 Avec la base d’un template nous avions pour but de créer du code php pour incrémenter un tableau en html.
-                                 Cet avec ce projet que nous avions pu voir les fondamentaux de php ainsi que les prémices des classes.
+                                 Avec la base d’un template nous avions pour but de créer du code php pour incrémenter un tableau en html. 
+                                 Ce projet était notre premier CRUD, c'est grâce à lui que nous avons pu voir les fondamentaux de php ainsi que 
+                                 les prémices des classes en php et leurs forces.
                               </p>
                            </div>
                         </div>

@@ -28,19 +28,20 @@
                   </div>
                </div>
             </div>
-               <section class="layout_padding section about_dottat">
-                  <div class="container">
-                     <div class="row">
-                        <div class="col-lg-12 text_align_center">
-                           <div class="full">
-                              <p class="large">
-                                 Lors de mon BTS j'ai du, à plusieurs reprise mettre en ligne des sites web. Bien que ce ne soit pas difficile c'est rapidement rébarbatif, 
-                                 par gain de temps nous avons donc fait un court programme en .sh sous linux pour simplifier la création et automatiser tout le processus. 
-                           </div>
+            <section class="layout_padding section about_dottat">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-lg-12 text_align_center">
+                        <div class="full">
+                           <p class="large">
+                              Lors de mon BTS, j'ai dû, à plusieurs reprises, mettre en ligne des sites web. Bien que ce ne soit pas difficile, c'est rapidement rébarbatif. 
+                              Par souci de gain de temps, nous avons donc créé un court programme en .sh sous Linux pour simplifier la création et automatiser tout le processus.
+                           </p>
                         </div>
                      </div>
                   </div>
-               </section>
+               </div>
+            </section>
             <div class="row">
                <div class="col-md-12 cours_timging_bg">
                   <div class="container">

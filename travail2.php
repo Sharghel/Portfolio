@@ -34,12 +34,11 @@
                      <div class="col-lg-12 text_align_center">
                         <div class="full">
                            <p class="large">
+                              Pour l’apprentissage de Docker, nous avons fait plusieurs tâches différentes. 
+                              Nous avons commencé par une introduction à Docker pour expliquer les conteneurs, puis nous avons importé certaines images comme Docker Compose, par exemple. 
                               
-                              Pour l’apprentissage de docker nous avons fait plusieurs taches différentes,
-                              Nous avons commencé par une introduction à Docker pour expliquer les conteneurs puis nous avons importé certaines images comme le docker compose par exemple.
-                              
-                              Ensuite nous avions un petit projet dans lequel nous devions faire des volumes docker pour héberger 3 sites différents qui pointent vers nos fichiers.
-                              Grâce à cela nous pouvions modifier nos codes HTML et voir la modification en temps réel.
+                              Ensuite, nous avions un petit projet dans lequel nous devions faire des volumes Docker pour héberger 3 sites différents qui pointent vers nos fichiers. 
+                              Grâce à cela, nous pouvions modifier nos codes HTML et voir la modification en temps réel.
                            </p>
                         </div>
                      </div>

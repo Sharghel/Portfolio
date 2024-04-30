@@ -34,12 +34,9 @@
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
                               <p class="large">
-                                 Lors de mon alternance j'ai du créer et parametrer un sharepoint interne d'entreprise, 
-                                 j'ai eu la chance d'être dans le même bureau que la personne souhaitant ce sharepoint ce qui m'a permis d'avoir des indications précises des attendus
-                                 <!-- Dans le cadre de mon entreprise j’ai du faire la création d’un sharepoint online pour pouvoir concentrer l’activité CONVEX entre toute la France sur un seul portail à la place de 5 différents.
-                                    Le défis était de taille puisque j’ai du satisfaire les demandes de plusieurs agents en même temps malgré que leurs avis soient parfois divergent.
-                                    J’ai notamment dû être capable de faire plusieurs affichage puisque personne ne voulais le même 
-                                    -->
+                                 Dans le cadre de mon alternance, j’ai dû faire la création d’un SharePoint Online pour pouvoir concentrer l’activité CONVEX de toute la France sur un seul portail, au lieu de 5 différents.
+                                 Le défi était de taille puisque j’ai dû satisfaire les demandes de plusieurs agents en même temps, malgré que leurs avis soient parfois divergents.
+                                 En plus du SharePoint, je devais fournir des indicateurs précis du travail fourni par chaque agent.
                            </div>
                         </div>
                      </div>

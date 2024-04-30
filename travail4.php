@@ -34,8 +34,8 @@
                         <div class="col-lg-12 text_align_center">
                            <div class="full">
                               <p class="large">
-                                 Dans le cadre de notre apprentissage nous avions pour mission d’approfondir les différents diagrammes UML et Meurise
-                                 Pour ce faire nous avions un exercice à propos des diagrammes de classe en suivant une manière UML, puis de la réappliquer sur MySQLWorkbench pour comme objectif final être utile pour un de nos projet de fin d'année.                                    
+                                 Dans le cadre de notre apprentissage, nous avions pour mission d’approfondir les différents diagrammes UML et Merise. 
+                                 Pour ce faire, nous avions un exercice à propos des diagrammes de classe en suivant une manière UML, puis de la réappliquer sur MySQL Workbench dans le but final d'être utile pour l'un de nos projets de fin d'année.
                               </p>
                            </div>
                         </div>
@@ -98,7 +98,7 @@
                      <p class="large">J'ai fait ce projet en groupe la plupart du temps mais à certains moments il existait des périodes où nous étions seul.
                         <br>
                         Le projet à été commencé en 2022 et fini en 2023 il a comptabilisé un total d'environ 30 Heures en tout.
-                        </p>
+                     </p>
                   </div>
                </div>
             </div>
